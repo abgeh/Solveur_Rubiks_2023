@@ -1,6 +1,4 @@
-
-
-### RUBIKS CUBE SOLVER 2022/2023
+RUBIKS CUBE SOLVER 2022/2023
 
 -Le dossier STM32 contient le code pour la communication UART permettant d'envoyer les mouvements à faire au robot. Televersé sur la STM32 (celle qui esr reliée aux moteurs)
 
@@ -10,7 +8,7 @@
 
 -Nous avons ajouté trois fichiers txt comme exemples (trois images du cube), il faut executer le main et les images seront créées, ainsi que le fichier couleurs et le fichier solution. 
 
-## GUIDE DE CAPTURE
+GUIDE DE CAPTURE
 
 	Il faut organiser le cube de telle sorte que les six faces centrales soient: 
 		Jaune : Haut/UP 
