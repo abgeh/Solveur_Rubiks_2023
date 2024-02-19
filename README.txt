@@ -2,7 +2,9 @@
 
 RUBIKS CUBE SOLVER 2022/2023
 
--Le dossier Arduino contient le sketch à televerser sur la STM32.
+-Le dossier STM32 contient le code pour la communication UART permettant d'envoyer les mouvements à faire au robot. Televersé sur la STM32 (celle qui esr reliée aux moteurs)
+
+-Le dossier Arduino contient le sketch à televerser sur la STM32 (celle qui fait la capture).
 
 -Le dossier python contient converttobitmap, rubiksmapping, rubikssolver, main (qui appelle les trois premières). Il contient également scriptserial qui effectue la capture d'une image et enregistre un fichier txt (il faut directement appuyer sur le bouton utilisateur après l'execution du script).
 
