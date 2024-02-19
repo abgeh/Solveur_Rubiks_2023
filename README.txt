@@ -1,14 +1,6 @@
+
+
 RUBIKS CUBE SOLVER 2022/2023
-
--Le dossier Arduino contient le sketch à televerser sur la STM32.
-
--Le dossier python contient converttobitmap, rubiksmapping, rubikssolver, main (qui appelle les trois premières). Il contient également scriptserial qui effectue la capture d'une image et enregistre un fichier txt (il faut directement appuyer sur le bouton utilisateur après l'execution du script).
-
--Nous avons ajouté trois fichiers txt comme exemples (trois images du cube), il faut executer le main et les images seront créées, ainsi que le fichier couleurs et le fichier solution. 
-
--GUIDE DE CAPTURE
-
-	RUBIKS CUBE SOLVER 2022/2023
 
 -Le dossier Arduino contient le sketch à televerser sur la STM32.
 
