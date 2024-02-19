@@ -22,3 +22,5 @@ RUBIKS CUBE SOLVER 2022/2023
 
 
 	Cette configuration doit être celle qui est toujours utilisée pour la capture. On commence avec Jaune (Haut) et Rouge (Devant) pour la première capture, ensuite on fait une rotation afin d'avoir Vert(Haut) et Blanc(Devant) pour la deuxième, et enfin Orange(Haut) et Bleu(Devant) pour la dernière capture.
+
+
